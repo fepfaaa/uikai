@@ -97,7 +97,7 @@ function create:Win()
     Main.ClipsDescendants = true 
     Main.AnchorPoint = Vector2.new(0.5, 0.5)
 
-    local Logo = Instance.new("ImageLabel")
+    local Logo = Instance.new("https://web.roblox.com/library/7438846518/241039359-1389589084772015-3193898907194162579-n")
     
     
     Logo.Name = "Logo"
